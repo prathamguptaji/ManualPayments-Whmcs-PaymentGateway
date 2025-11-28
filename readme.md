@@ -82,14 +82,9 @@ Note: This is a manual gateway, so payments need to be marked as Paid manually i
 
 📸 Preview (Optional)
 
-You can add screenshots here when ready:
-
-/screenshots/popup_example.png
-
-
 Use markdown:
 
-![QR Popup Example](screenshots/popup_example.png)
+![QR Popup Example](screenshots/example.png)
 
 📜 Code Behavior Summary
 
